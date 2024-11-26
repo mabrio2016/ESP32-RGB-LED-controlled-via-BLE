@@ -1,7 +1,7 @@
 /*
     Video: https://youtu.be/7gmIzQ6lQZ8
     Based on Neil Kolban example for IDF: https://github.com/nkolban/esp32-snippets/blob/master/cpp_utils/tests/BLE%20Tests/SampleNotify.cpp
-Using Board ESP32-S3-USB-OTG
+    Using Board ESP32-S3-USB-OTG
 */
 #include <BLEDevice.h>
 #include <BLEServer.h>
